@@ -6,9 +6,10 @@ Our summer school project aims to familiarize us with good quality software for 
 We are working on the scientific software used for the detection of gravitational waves by various scientific teams at various labs.<br>
 
 **Requirements**
-lagnguag
+
+lagnguage <br>
 - python 3.x <br>
-packages
+packages <br>
 - numpy<br>
 - scipy<br>
 - h5py<br>
