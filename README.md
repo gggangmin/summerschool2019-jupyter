@@ -59,3 +59,10 @@ GWpy is a python package that is a collection of tool that are generally used to
 The package is easy to use and well documented.<br>
 
 The official documentation for GWpy can be found at https://gwpy.github.io/docs/stable/
+
+
+**sample_data**
+
+The 4 samples are used in tutorias; GW150914, GW151226, GW170104 LVT151012
+
+Each folder include the results of analysis 
