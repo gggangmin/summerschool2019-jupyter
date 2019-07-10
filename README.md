@@ -1,7 +1,11 @@
 # Summer School 2019
 # Gravitational wave analysis with Jupyter-notebook 
 
-This summer school project aimed at getting us familiarised on how to use jupyter notebook.
+Our summer school project aims to familiarize us with good quality software for scientific projects that follows FAIR & RARE principles. <br>
+
+We are working on the scientific software used for the detection of gravitational waves by various scientific teams at various labs.<br>
+
+
 
 **References and materials:**
 
@@ -34,3 +38,12 @@ python -m pip install "gwosc"
 
 To get used to **gwosc** we followed the tutorials at : <br>
 https://github.com/gw-odw
+
+
+**GWpy** <br>
+
+GWpy is a python package that is a collection of tool that are generally used to study data from gravitational wave detectors. <br>
+
+The package is easy to use and well documented.<br>
+
+The official documentation for GWpy can be found at https://gwpy.github.io/docs/stable/
