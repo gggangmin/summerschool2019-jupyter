@@ -40,10 +40,10 @@ To get used to **gwosc** we followed the tutorials at : <br>
 https://github.com/gw-odw
 
 
-**GWpy"
+**GWpy** <br>
 
 GWpy is a python package that is a collection of tool that are generally used to study data from gravitational wave detectors. <br>
 
 The package is easy to use and well documented.<br>
 
-The official documentation for GWpy can be found at https://gwpy.github.io/docs/stable/.
+The official documentation for GWpy can be found at https://gwpy.github.io/docs/stable/
