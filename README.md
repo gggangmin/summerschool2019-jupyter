@@ -8,7 +8,9 @@ We are working on the scientific software used for the detection of gravitationa
 **Requirements**
 
 lagnguage <br>
-- python 3.x <br>
+- python 3.x 
+<br>
+
 packages <br>
 - numpy<br>
 - scipy<br>
