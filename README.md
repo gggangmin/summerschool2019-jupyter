@@ -98,10 +98,7 @@ Each folder include the results of analysis
 
 ### Authors
 
- - Cyril
- - Daniel
- - Gangmin
- - Umar Farooq
+ -Ilgwon Park -Gangmin Park -Cyril Briand - Umar Farooq
 
 ### Acknowledgements
 
