@@ -58,6 +58,10 @@ It is a tutorial on how the LIGO team analysed their data to find evidences of g
 
 Here are some other interesting link we used :
 
+### How to run the tutorials of LIGO
+
+open the Gravitational Waves Analysis\LOSC_Event_tutorial.ipynb and follow the step
+
 **The Gravitational Wave Open Science Center**
 
 Where most of out ressources were found.<br>
